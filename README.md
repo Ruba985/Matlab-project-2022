@@ -8,7 +8,7 @@
 1. [API Reference](#API_Reference)
 2. [Environment Variables](#Environment_Variables)
 3. [Programmers](#Programmers)
-4. 
+
 ## API Reference
 
 This system has three main files `template_creation.m`,`Letter_detection.m` and 
