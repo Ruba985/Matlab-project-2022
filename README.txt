@@ -269,8 +269,3 @@ im = imread('location of the image/image name.png');
 - Ruba Khawfani
 - Shefaa SHalabi
 - Rahaf Alharthi
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
